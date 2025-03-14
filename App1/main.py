@@ -6,5 +6,5 @@ st.markdown('#Hello world')
 
 st.sidebar.write("this is main page")
 
-im = Image.open('dell.png')
+im = Image.open('App1/dell.png')
 st.image(im,width=100)
